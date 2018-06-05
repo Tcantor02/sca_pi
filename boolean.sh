@@ -1,6 +1,6 @@
 #!/bin/bash
 
-if [$1-gt 100]
+if [ $1 -gt 100 ]
 then
    echo "Thats a large number"
 fi 
