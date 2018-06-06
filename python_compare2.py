@@ -10,7 +10,7 @@ if x > y:
     print "if branch"
 
 else: 
-    print y, "is the minimum"
+    print y, "is the maximum"
     print x, "is the minimum"
     print "else branch"
 
